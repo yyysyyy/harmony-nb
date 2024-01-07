@@ -1,36 +1,23 @@
-# 网易云音乐
-🎅❄️🎶Optimization project
+## 钉钉i北理
 
-### 鸿蒙ArkTs仿网易云音乐
+#### 功能介绍
 
-- [api来源](https://github.com/Binaryify/NeteaseCloudMusicApi)
+仿照钉钉i北理的UI，使用鸿蒙原生artks搭建了钉钉i北理的UI
 
-- [源码地址](https://github.com/linwu-hi/open_neteasy_cloud)
+- 首页消息展示，并可以实现下滑
+- 通讯录展示，包括企业内、企业间等等
+- 工作台部分，包括i北理的基本功能展示，实现了与钉钉相同的动态横滑页面
+- 我的部分，展示自己的个人信息，与钉钉相同的权益、钱包等部分
+- 底部模块选择部分，在选择模块前与选择模块后会有动态的图片变化
 
+#### 程序截图
 
-
-
-### 功能介绍
-
-- 登陆
-- 首页
-- 每日推荐
-- 歌单广场
-- 排行榜
-- 云村热评
-- 视频
-- MV详情页
-- 我的
-- 电台模块【电台首页，电台详情, 电台排行榜】
-- 搜索【支持单曲，MV，专辑，歌单，电台】
-- 播放页【歌词，播放列表，上一首，下一首】
-
-### 部分功能效果图
-
-![](https://github.com/linwu-hi/release-dev-offline/blob/main/docs/20231123164849.jpg)
-![](https://github.com/linwu-hi/release-dev-offline/blob/main/docs/20231123164921.jpg)
+<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230429015.png" alt="image-20240107230429015" style="zoom: 80%;" />
 
 
 
+<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230544229.png" alt="image-20240107230544229" style="zoom:80%;" />
 
-### **持续更新中...**
+<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230612800.png" alt="image-20240107230612800" style="zoom:80%;" />
+
+<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230706293.png" alt="image-20240107230706293" style="zoom:80%;" />

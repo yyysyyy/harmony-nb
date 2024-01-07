@@ -1,7 +1,5 @@
 {
   "src": [
-    "pages/HomePage",
-    "pages/IndexPage",
-    "pages/DailyRecommendPage"
+    "pages/Index"
   ]
 }
