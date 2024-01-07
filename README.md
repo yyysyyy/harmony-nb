@@ -12,12 +12,12 @@
 
 #### 程序截图
 
-<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230429015.png" alt="image-20240107230429015" style="zoom: 80%;" />
+<img src="./md_picture1.png" alt="image-20240107230429015" style="zoom: 80%;" />
 
 
 
-<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230544229.png" alt="image-20240107230544229" style="zoom:80%;" />
+<img src="./md_picture2.png" alt="image-20240107230544229" style="zoom:80%;" />
 
-<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230612800.png" alt="image-20240107230612800" style="zoom:80%;" />
+<img src="./md_picture3.png" alt="image-20240107230612800" style="zoom:80%;" />
 
-<img src="C:\Users\10172\AppData\Roaming\Typora\typora-user-images\image-20240107230706293.png" alt="image-20240107230706293" style="zoom:80%;" />
+<img src="./md_picture4.png" alt="image-20240107230706293" style="zoom:80%;" />
